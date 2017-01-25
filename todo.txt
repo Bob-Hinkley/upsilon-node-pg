@@ -1,0 +1,18 @@
+1. create a database
+  -create table to store book info
+  -columns for title, author, puclication date
+
+2.  server side:
+  -route for GET book info
+  -route for POST new books
+
+      Stretch goals:
+  -route for updating books
+  -route for deleting books
+
+3.  client side:
+  -AJAX call for getting books
+  -AJAX call for creating books
+  -some way to display books
+
+4.
